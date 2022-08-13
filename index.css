@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background_image_Ecommerce_website {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    background-size: cover;
+    /* height:100vh; */
+}
+
+.image11 {
+    width: 80%;
+}
+
+.image12 {
+    width: 100px;
+}
+
+.offer_heading_Ecommerce_website_offers_section {
+    color: #ad2167;
+    font-size: 23px;
+    font-weight: 700;
+    font-family: "Roboto";
+}
+
+.offers_section_new_year_para {
+    color: white;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+.discount_percent_offers_section {
+    color: white;
+    font-size: 22px;
+    font-style: italic;
+}
